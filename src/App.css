@@ -1,0 +1,32 @@
+/* 
+.Header::selection{
+    color: yellowgreen;
+}.Header{
+    font-size: 45px;
+    font-weight: 700;
+    margin: 10px;
+    margin-bottom: 25px;
+    
+} */
+.AddToDoInput{
+    margin: 10px;
+}
+.AddToDoInput input{
+    width: 100%;
+    padding: 8px;
+}
+.btn{
+    min-width: 80px;
+
+}
+.row{
+    margin: 10px;
+    text-align: left;
+}
+.conditional{
+    width: 100%;
+    text-align: left;
+}
+.list-group-item{
+    text-align: left;
+}
